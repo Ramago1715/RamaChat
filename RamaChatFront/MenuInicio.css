@@ -1,0 +1,64 @@
+.titulos{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white; 
+    padding-left: 40%;
+    background-color: #151515;
+    opacity: 68%;
+    margin-top: -10px;
+    border-style: ridge;
+    border-color: black;
+    border-radius: 7%;
+    margin-left: -10px;
+    margin-right: -8px;  
+
+}
+#envio {
+    
+    background-color: white;
+    width: 12%;
+
+    min-width: fit-content;
+  }
+
+#envio:hover {
+
+    box-shadow: 0 5px 5px rgb(152, 3, 193); 
+    color: #000000;
+  }
+
+.container{
+    color:white;
+    margin-top: 8%;
+    margin-left: 35%;
+    margin-right: 35%;
+    background-color: #151515;
+    opacity: 70%;
+    border-style:ridge;
+    border-color: black;
+    border-radius: 3%;
+   
+
+    min-width: fit-content;
+}
+.container h2{
+    margin-left: 20%;
+    margin-bottom: 5%;
+}
+.container a{
+    text-decoration: none;
+    color: white;
+    margin-top: 50%;
+}
+.container *{
+    margin: 3%;
+}
+
+#paises{
+    max-width: 35%;
+    display: block;
+}
+
+body{
+
+    background-image: url(diseño-de-fondo-encabezado-web-con-flujo-pintura-gris-líquido-abstracto-fluido-para-el-folleto-del-sitio-cartel-vintage-218029428.jpg) ;
+}

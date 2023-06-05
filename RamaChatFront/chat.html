@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Chat</title>
+  <link rel="stylesheet" href="chat.css">
+  <script src="Login-Register.js"></script>
+</head>
+<body onload="rebrellistaamigos()">
+  <div class="container">
+    <div class="friends-list">
+      <h2>Amigos</h2>
+      <span id="erroramigos"></span>
+      <input type="email" placeholder="Enter email" id="emailamigo">
+      <button onclick="agregar_amigos()" class="botoon" id="addfriend">Add Friend</button><br><br> 
+      <select name="listamigos" id="listaamigos">
+      </select>
+    </div>
+    <div id="chat">
+      <h2 class="chat-header">RamaChat</h2>
+      <div class="conversations" id="conversations">
+      </div>
+      <div class="input-area">
+        <input type="text" placeholder="Escribe tu mensaje..." required id="mensaje">
+        <button onclick="enviarmensaje()" class="botoon">Enviar</button>
+        <button onclick="cerrarsesion()" class="botoon">Cerrar Sesion</button>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

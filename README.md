@@ -19,8 +19,8 @@
 #### lista de amigos en forma de select, su funcionamiento es que el mensaje que escribas se enviara a tu amigo selecionado en ese momento
 #### si el mensaje lo has enviado tu tiene un color y si te lo ha enviado otra persona uno diferente.
 
-## Chat desde la pespectiva de ramago1715@gmail.com:
+## Chat desde la pespectiva de ramago1715agmailcom:
 ![image](https://github.com/Ramago1715/RamaChat/assets/74196893/f1f68842-4c7a-4b71-8573-5ee2e8cbdc05)
 
-## Pespectiva de mtaberner@gmail.con:
+## Pespectiva de mtaberneragmailcom:
 ![image](https://github.com/Ramago1715/RamaChat/assets/74196893/86d87a36-1074-4936-995a-75abeb150733)
